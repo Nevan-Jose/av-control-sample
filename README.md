@@ -171,8 +171,3 @@ av-control-sample/
 All the real logic is in `core/`, and none of it imports Streamlit. That means
 it can be tested on its own, without opening the screen.
 
-## What is left out on purpose
-
-No real login, no database (the history is kept in memory for the session
-only), and no real call to actual AV hardware. The job post says the command is
-simulated, so the app builds and shows the JSON but does not send it anywhere.
