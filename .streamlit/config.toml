@@ -1,0 +1,4 @@
+# Subtle, on-brand theming (NYU violet). Intentionally minimal — Streamlit's
+# defaults are clean; this just sets an accent colour.
+[theme]
+primaryColor = "#57068C"

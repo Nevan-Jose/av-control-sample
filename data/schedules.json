@@ -1,0 +1,5 @@
+[
+  {"staff_name": "Jordan Lee", "role": "Technician", "shift_date": "2026-06-22", "time_block": "09:00-13:00", "assigned_location": "Dibner Hall 101"},
+  {"staff_name": "Sam Patel", "role": "Manager", "shift_date": "2026-06-22", "time_block": "12:00-20:00", "assigned_location": "Jacobs Lecture Hall"},
+  {"staff_name": "Priya Nair", "role": "Technician", "shift_date": "2026-06-23", "time_block": "13:00-21:00", "assigned_location": "6 MetroTech 201"}
+]

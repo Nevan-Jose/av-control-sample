@@ -1,0 +1,6 @@
+[
+  {"device_id": "projector_1", "name": "Epson Pro L730U", "type": "projector", "room": "Dibner Hall 101", "status": "online", "last_serviced": "2026-04-12"},
+  {"device_id": "dsp_main_hall", "name": "QSC Core 110f", "type": "dsp", "room": "Jacobs Lecture Hall", "status": "online", "last_serviced": "2026-03-02"},
+  {"device_id": "switcher_2", "name": "Extron DTP CrossPoint 84", "type": "switcher", "room": "6 MetroTech 201", "status": "offline", "last_serviced": "2026-01-20"},
+  {"device_id": "display_3", "name": "Samsung QM85R", "type": "display", "room": "370 Jay St Conf Room A", "status": "online", "last_serviced": "2026-05-30"}
+]
