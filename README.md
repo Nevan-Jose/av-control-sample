@@ -7,6 +7,9 @@ which creates a JSON message like a real projector or sound system would accept.
 
 Built for the NYU AV/Media Services sample app challenge.
 
+**Live demo:** https://av-control-sample-axddfq6ctxt4qytllhnjsr.streamlit.app
+(free hosting, so if it is asleep it wakes up in a few seconds)
+
 ## What it does (and where each part lives)
 
 | What the challenge asked for | Where it is in the code |
@@ -167,20 +170,6 @@ av-control-sample/
 
 All the real logic is in `core/`, and none of it imports Streamlit. That means
 it can be tested on its own, without opening the screen.
-
-## Deploy a live link (optional)
-
-The job post accepts a live link. This runs for free on Streamlit Community
-Cloud from a public GitHub repo:
-
-1. Push this folder to a public GitHub repo.
-2. Go to https://share.streamlit.io, sign in with GitHub, and click Create app,
-   from existing repo.
-3. Pick the repo, set the main file to `app.py`, and deploy.
-
-`requirements.txt` is already there, so nothing else is needed. The history
-list resets when the app sleeps, which is fine for a demo (there is no database,
-on purpose).
 
 ## What is left out on purpose
 
